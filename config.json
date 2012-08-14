@@ -1,0 +1,17 @@
+{
+  "locals": {
+    "url": "http://superiorpixels.com",
+    "title": "Brian Rountree",
+    "owner": "Brian Rountree",
+    "description": "Director of Control Panel Engineering, Rackspace, The Open Cloud Company"
+  },
+  "plugins": [
+    "wintersmith-less",
+    "wintersmith-coffee"
+  ],
+  "ignore": [
+    "style/bootstrap/*",
+    "*.psd",
+    "feed*"
+  ]
+}

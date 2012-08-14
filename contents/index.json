@@ -1,0 +1,16 @@
+{
+  "template": "index.jade",
+  "ordering": [
+    "myrack",
+    "nextgen",
+    "ccp",
+    "yfinance",
+    "yshine",
+    "resume",
+    "elsewhere"
+  ],
+  "tools": [
+    { "name": "Wintersmith", "url": "http://jnordberg.github.com/wintersmith" },
+    { "name": "Bootstrap", "url": "http://twitter.github.com/bootstrap/" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "brian.rountree",
+  "subdomain": "brian",
+  "scripts": {
+    "start": "bin/server.js"
+  },
+  "version": "0.1.0-14",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "node-static": "0.6.x"
+  },
+  "domains": [
+    "superiorpixels.com",
+    "www.superiorpixels.com"
+  ]
+}

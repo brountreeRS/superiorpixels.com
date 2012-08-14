@@ -1,0 +1,12 @@
+include mixins
+section#about
+  .row
+    .span4.offset1
+      +thumb("images/headshot.jpg", "#")
+    .span6
+      != contents['about.md'].html
+      a.btn.btn-primary(href="mailto:thepixelarchitect@yahoo.com")
+        i.icon-envelope.icon-white
+        span   Get in touch
+
+    
